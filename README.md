@@ -1,5 +1,9 @@
+<p align="center">
+  <img src="/vecteur-mascotte-tigre-muscle-pour-salle-gym-centre-fitness_621660-1722.avif" width="120px" alt="soldier icon"/>
+</p>
 # 💫 About Me:
-Hi, I’m Helal 👋<br>A wanderer at heart, walking through life with curiosity, code, and a calm mindset. I aim to be a chill yet driven programmer & developer, someone who not only builds solutions but also grows as a good human being.<br><br>💻 Passion → Exploring programming, solving problems, and creating meaningful projects.<br>🌱 Journey → Learning every day, step by step, with patience and consistency.<br>🙏 Values → Faith, humility, and kindness guide me as much as logic and creativity.<br>🚀 Goal → To become successful in tech while staying true to myself and helping others.<br><br>✨ “Code with purpose, live with balance, and stay human first.”
+### Hey, I’m **Helal** 👋 
+<br>A wanderer at heart, walking through life with curiosity, code, and a calm mindset. I aim to be a chill yet driven programmer & developer, someone who not only builds solutions but also grows as a good human being.<br><br>💻 Passion → Exploring programming, solving problems, and creating meaningful projects.<br>🌱 Journey → Learning every day, step by step, with patience and consistency.<br>🙏 Values → Faith, humility, and kindness guide me as much as logic and creativity.<br>🚀 Goal → To become successful in tech while staying true to myself and helping others.<br><br>✨ “Code with purpose, live with balance, and stay human first.”
 
 
 ## 🌐 Socials:
