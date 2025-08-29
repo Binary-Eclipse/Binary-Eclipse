@@ -1,5 +1,5 @@
 <p align="center">
-<img align="center" alt="Coding" width="350" src="[https://gifdb.com/images/high/programming-angry-punching-keyboard-fw45yh2e39g24ylb.gif](https://i.pinimg.com/originals/f3/45/38/f34538e1d54ecd06547f4fee1e005e5c.gif)">
+<img align="center" alt="Coding" width="350" src="https://i.pinimg.com/originals/f3/45/38/f34538e1d54ecd06547f4fee1e005e5c.gif">
 </p>
 
 # 💫 About Me:
