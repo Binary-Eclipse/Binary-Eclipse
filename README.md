@@ -1,8 +1,7 @@
 <p align="center">
-<img align="center" alt="Coding" width="350" src="https://i.pinimg.com/originals/f3/45/38/f34538e1d54ecd06547f4fee1e005e5c.gif">
+<img align="center" alt="Coding" width="350" src="https://media.tenor.com/kNZ9LgNyC1gAAAAj/attack-battle.gif">
 </p>
 
-# 💫 About Me:
 ### Hey, I’m **Helal** 👋 
 <br>A wanderer at heart, walking through life with curiosity, code, and a calm mindset. I aim to be a chill yet driven programmer & developer, someone who not only builds solutions but also grows as a good human being.<br><br>💻 Passion → Exploring programming, solving problems, and creating meaningful projects.<br>🌱 Journey → Learning every day, step by step, with patience and consistency.<br>🙏 Values → Faith, humility, and kindness guide me as much as logic and creativity.<br>🚀 Goal → To become successful in tech while staying true to myself and helping others.<br><br>✨ “Code with purpose, live with balance, and stay human first.”
 
